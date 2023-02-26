@@ -1,0 +1,5 @@
+1. pip install pyinstaller
+2. open a command prompt and navigate to the directory where a python script is located
+  -> to navigate:
+    cd C:\Users\UserName\Desktop etc
+4. pyinstaller --onefile PythonScript.py
